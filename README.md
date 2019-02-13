@@ -17,4 +17,4 @@ Following those classes we made a Parallel Server that can many clients simultan
 ### Second Part :
 
 We have a generic Solver class and a generic Problem class that contains a state (those classes utilise the Bridge design pattarn).
-In that way every specific problem has its own Solver and that way it assures the SOLID principles.
+In that way every specific problem has its own Solver and that way it assures the SOLID and GRASP principles.
